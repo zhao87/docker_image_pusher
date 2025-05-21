@@ -1,4 +1,4 @@
 #支持私库
-docker pull datastax/dse-studio
+datastax/dse-studio
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
