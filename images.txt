@@ -1,4 +1,4 @@
 #支持私库
-supabase/edge-runtime
+inovector/mixpost-pro-team:latest
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
