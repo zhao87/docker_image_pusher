@@ -1,4 +1,4 @@
 #支持私库
-jc21/nginx-proxy-manager:latest
+n8nio/n8n:1.113.3
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
